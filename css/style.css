@@ -252,8 +252,8 @@ footer{
 		color: rgba(255,255,255,0.8);
 	}
 	
-		header > h1{
-			float: none;
+	header > h1{
+		float: none;
 	}
 	
 	.quote{
