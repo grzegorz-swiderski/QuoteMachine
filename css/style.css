@@ -71,6 +71,7 @@ footer{
 	font-family: 'Satisfy', cursive;
 	font-weight: 100;
 	padding: 2.2vh;
+	width: 98%;
 }
 
 .author{
@@ -177,6 +178,7 @@ footer{
     
     .quote{
 		margin-left: 13vh;
+		width: 80%;
 	}
     
     .author{
@@ -251,12 +253,10 @@ footer{
 	
 	.quote{
 		width: 140%;
-		border: solid 1px red;
 	}
     
     .author{
 		width: 140%;
-		border: solid 1px red;
 		padding: 0;
     }
 	
@@ -289,7 +289,6 @@ footer{
 	
 	.quote{
 		width: 100%;
-		border: solid 1px red;
 	}
     
     .author{
